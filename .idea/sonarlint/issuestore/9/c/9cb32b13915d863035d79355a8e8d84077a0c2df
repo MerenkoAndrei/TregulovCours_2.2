@@ -1,0 +1,15 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ…Ïå8¿£úû²1
+Y
+java:S1854"7Remove this useless assignment to local variable "st5".(²¹˜ˆúÿÿÿÿ8Ç£úû²1
+T
+java:S1854"7Remove this useless assignment to local variable "st4".(ÎÏ³Ñ8İ†”ü²1
+G	java:S106"+Replace this use of System.out by a logger.(µˆœÑ8É£úû²1
+E
+java:S1481"(Remove this unused "st4" local variable.(ÎÏ³Ñ8ß†”ü²1
+J
+java:S1481"(Remove this unused "st5" local variable.(²¹˜ˆúÿÿÿÿ8Ê£úû²1
+L	java:S106"+Replace this use of System.out by a logger.(œæ‡úÿÿÿÿ8Ë£úû²1
+]	java:S125"<This block of commented-out lines of code should be removed.(³ï«Òıÿÿÿÿ8à†”ü²1
+G	java:S106"+Replace this use of System.out by a logger.(×ÙëÃ8èçü²1
+X	java:S1254"<This block of commented-out lines of code should be removed.(İ ’ì8Í£úû²1

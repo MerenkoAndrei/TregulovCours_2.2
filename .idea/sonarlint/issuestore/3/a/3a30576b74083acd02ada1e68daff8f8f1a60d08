@@ -1,0 +1,15 @@
+
+e
+java:S1192D"IDefine a constant instead of duplicating this literal "________" 4 times.(‹Àùd8°éßµ1
+J
+java:S1604F"(Make this anonymous inner class a lambda(ñÿË¥ûÿÿÿÿ8„§ßµ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½»Ù8Úşßµ1
+L	java:S106	"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8âşßµ1
+]	java:S125"<This block of commented-out lines of code should be removed.(¿‹±òıÿÿÿÿ8âşßµ1
+W	java:S125"<This block of commented-out lines of code should be removed.(É¢“*8âşßµ1
+F	java:S106D"+Replace this use of System.out by a logger.(‹Àùd8åşßµ1
+F	java:S106E"+Replace this use of System.out by a logger.(‹Àùd8åşßµ1
+F	java:S106L"+Replace this use of System.out by a logger.(‹Àùd8ºéßµ1
+F	java:S106M"+Replace this use of System.out by a logger.(‹Àùd8ºéßµ1
+u
+java:S1602N"SRemove useless curly braces around statement and then remove useless return keyword(†úÌ³øÿÿÿÿ8åşßµ1
